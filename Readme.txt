@@ -107,9 +107,3 @@ a) the best validation EPE is printed in the log.
 b) FLOPs and params are printed in the log.
 c) `test_*.sh' is used to evalute the trained model
 
-Submission
-a) you need to sumbit the codes and trained checkpoints (save in `work/' automatically)
-b) you should only keep `*_model_best.pth.tar' and clean other irrelevant files in `work/'
-c) you should move `data/' out before `zip'
-d) add a readme file to tell the TAs which tasks you complete.
-
